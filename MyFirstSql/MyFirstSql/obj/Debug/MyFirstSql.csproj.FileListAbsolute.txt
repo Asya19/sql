@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\MyFirstSql\MyFirstSql\bin\Debug\MyFirstSql.exe.config
+C:\Users\User\source\repos\MyFirstSql\MyFirstSql\bin\Debug\MyFirstSql.exe
+C:\Users\User\source\repos\MyFirstSql\MyFirstSql\bin\Debug\MyFirstSql.pdb
+C:\Users\User\source\repos\MyFirstSql\MyFirstSql\obj\Debug\MyFirstSql.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MyFirstSql\MyFirstSql\obj\Debug\MyFirstSql.Form1.resources
+C:\Users\User\source\repos\MyFirstSql\MyFirstSql\obj\Debug\MyFirstSql.Properties.Resources.resources
+C:\Users\User\source\repos\MyFirstSql\MyFirstSql\obj\Debug\MyFirstSql.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MyFirstSql\MyFirstSql\obj\Debug\MyFirstSql.exe
+C:\Users\User\source\repos\MyFirstSql\MyFirstSql\obj\Debug\MyFirstSql.pdb
